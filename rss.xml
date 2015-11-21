@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[tigth]]></title>
         <description><![CDATA[tigth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tigth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 10:41:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 Nov 2015 10:41:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tigth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/tigth/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">92e1e6a6-e9d8-41d8-95ad-d157b6faac5f</guid>
-            <pubDate>Sat, 21 Nov 2015 10:40:52 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2015 10:40:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
