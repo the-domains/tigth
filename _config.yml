@@ -1,4 +1,20 @@
-analytics: {}
+name: tigth
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.2463666086345716
+title: This Is Going To Hurt - A Path to Fitness and Health
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -8,11 +24,9 @@ color:
     - '#FAD8D6'
   brandStrength: 0.18984659742160193
   lightness: 0.13829491466889698
-  rhythmicContrast: 0.500192821315438
   saturation: 0.6781350169776824
-cta: {}
-layout_spectrum: 1
-name: tigth
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.2463666086345716
+  rhythmicContrast: 0.500192821315438
+purpose:
+  - name: null
+    item: null
+    url: null
